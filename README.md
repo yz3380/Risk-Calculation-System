@@ -9,4 +9,6 @@ Term Project for MATH GR 5320 Financial Risk Management and Regulation
 Yunxiao Zhao, yz3380    
 Wanzhen Jiang, wj2289
 
+
+### Preview:
 ![Preview](Preview2.png)
