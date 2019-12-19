@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------
+# You may add '#' before to comment any positions
+# Enter variables seperated with comma
+# Support ANY stocks, as long as its price is available from Yahoo
+# Only support ATM options with provided implied volatilities in underlying stocks data
+----------------------------------------------------------------------------------------------------
+-------------------Stocks: <Ticker>, <position> (negative means short)
+#F, 175
+#XRX, 49
+NVDA, 3
+MSFT, 3
+KO, -1.5
+SNE, 2
+#IBM, 0.8
+#AMZN, 1
+#XOM, 13
+#T, 5
+#BAC, 6
+#AAPL, 10
+
+-------------------Options: <Underlying>, <position>, <type(call or put)>, <maturity(3, 6, 12 months)>
+AAPL, 10, call, 6
+AMZN, -2, put, 6
+#GE, -5, put, 3
+#NVDA, -8.5, call, 6
+#CVS, -3.3, put, 3
+#NKE, 3, call, 12
